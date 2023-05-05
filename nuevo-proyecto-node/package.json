@@ -1,0 +1,14 @@
+{
+  "name": "primer-ejercicio",
+  "version": "1.0.0",
+  "description": "ejercicio-1",
+  "main": "index.js",
+  "scripts": {
+    "primer-ejercicio": "echo 'Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo'"
+  },
+  "keywords": [
+    "primer-ejercicio"
+  ],
+  "author": "zahira diaz",
+  "license": "ISC"
+}
